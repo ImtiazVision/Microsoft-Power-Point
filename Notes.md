@@ -18,6 +18,7 @@ Setup  >>> Success/Problem  >>> Reward/Solution  >>> Call to Action (CTA)
 
 1. Have less text on each line. Keep the key point and the rest can be said verbally.
 2. Follow rule of three aka 3 points rule i.e. in each slide, try to have 3 key points. We can create 3 columns/shapes with pictures.
+3. Include photos that are inclusive to diverse races and backgrounds. 
 
 #### Tricks and Shortcuts
 
