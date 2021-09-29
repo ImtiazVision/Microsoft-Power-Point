@@ -20,6 +20,7 @@ Setup  >>> Success/Problem  >>> Reward/Solution  >>> Call to Action (CTA)
 2. Follow rule of three aka 3 points rule i.e. in each slide, try to have 3 key points. We can create 3 columns/shapes with pictures. Common shapes include rectangles, circles, logos, icons etc. Keep it simple and elegant when choosing shapes and stuffs in general. 
 3. Include photos that are inclusive to diverse races and backgrounds. 
 4. Use the Morph transition in PowerPoint to implement Moment of Delight to the audience i.e. wow moment. Animation and transition adds delight to the presentation.
+5. Implement collage of pictures side by side into a single slide combined with animation and transition.
 
 #### Tricks and Shortcuts
 
