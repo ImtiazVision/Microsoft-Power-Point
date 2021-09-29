@@ -18,3 +18,7 @@ Setup  >>> Success/Problem  >>> Reward/Solution  >>> Call to Action (CTA)
 
 1. Have less text on each line. Keep the key point and the rest can be said verbally.
 2. Follow 3 point rule i.e. in each slide, try to have 3 key points.
+
+#### Tricks and Shortcuts
+
+1. Option/Command + Shift >>> Copy & paste shapes i.e. rectangle 
