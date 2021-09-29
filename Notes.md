@@ -13,3 +13,7 @@ Beginning  >>> Big Event/ Problem  >>> Climax  >>> Ending
 ### Good Presentation Structure 
 
 Setup  >>> Success/Problem  >>> Reward/Solution  >>> Call to Action (CTA)
+
+### Tips on creating Power Point Slides
+
+1. Have less text on each line. Keep the key point and the rest can be said verbally.
