@@ -8,3 +8,8 @@
 ### Typical Story Structure
 
 Beginning  >>> Big Event/ Problem  >>> Climax  >>> Ending
+
+
+### Good Presentation Structure 
+
+Setup  >>> Success/Problem  >>> Reward/Solution  >>> Call to Action (CTA)
