@@ -29,3 +29,5 @@ Setup  >>> Success/Problem  >>> Reward/Solution  >>> Call to Action (CTA)
 #### Tricks and Shortcuts
 
 1. Option/Command + Shift >>> Copy & paste shapes i.e. rectangle 
+
+When creating a presentation, the main focus should be on designing. To produce a good presentation, a creative designer knows how to employ components such as color palettes, animations, tables, and charts.
