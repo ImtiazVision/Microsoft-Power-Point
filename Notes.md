@@ -31,3 +31,5 @@ Setup  >>> Success/Problem  >>> Reward/Solution  >>> Call to Action (CTA)
 1. Option/Command + Shift >>> Copy & paste shapes i.e. rectangle 
 
 When creating a presentation, the main focus should be on designing. To produce a good presentation, a creative designer knows how to employ components such as color palettes, animations, tables, and charts.
+
+To create a scrolling feed, we need to crop the image and size it. Then we have to bring the main image to the front. Then we do Transitions >>> Morph >>> set time
